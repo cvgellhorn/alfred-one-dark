@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#7C81A8FF",
+        "font" : "System Light",
+        "color" : "#606588B2"
+      },
+      "shortcut" : {
+        "size" : 14,
+        "colorSelected" : "#FCCE00FF",
+        "font" : "System Light",
+        "color" : "#C18DF2FF"
+      },
+      "backgroundSelected" : "#20242BFF",
+      "text" : {
+        "size" : 20,
+        "colorSelected" : "#C5E977FF",
+        "font" : "System Light",
+        "color" : "#DDE1F799"
+      },
+      "iconPaddingHorizontal" : 10,
+      "paddingVertical" : 10,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 5,
+      "background" : "#272B34FF",
+      "spacing" : 10,
+      "text" : {
+        "size" : 32,
+        "colorSelected" : "#000000FF",
+        "font" : "System",
+        "color" : "#E9EBFFFF"
+      },
+      "backgroundSelected" : "#0096FFFF"
+    },
+    "window" : {
+      "color" : "#272B34FF",
+      "paddingHorizontal" : 10,
+      "width" : 620,
+      "borderPadding" : 0,
+      "borderColor" : "#272B3400",
+      "blur" : 0,
+      "roundness" : 3,
+      "paddingVertical" : 10
+    },
+    "credit" : "Christoph von Gellhorn",
+    "separator" : {
+      "color" : "#18191F4C",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#61657F80",
+      "thickness" : 5
+    },
+    "name" : "One Dark"
+  }
+}
