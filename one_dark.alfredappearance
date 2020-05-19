@@ -4,7 +4,7 @@
       "textSpacing" : 8,
       "subtext" : {
         "size" : 11,
-        "colorSelected" : "#7C81A8FF",
+        "colorSelected" : "#7B80ABFF",
         "font" : "System Light",
         "color" : "#606588B2"
       },
@@ -14,7 +14,7 @@
         "font" : "System Light",
         "color" : "#C18DF2FF"
       },
-      "backgroundSelected" : "#20242BFF",
+      "backgroundSelected" : "#7B80AB3F",
       "text" : {
         "size" : 20,
         "colorSelected" : "#C5E977FF",
