@@ -44,7 +44,7 @@
       "borderPadding" : 0,
       "borderColor" : "#272B3400",
       "blur" : 0,
-      "roundness" : 3,
+      "roundness" : 4,
       "paddingVertical" : 10
     },
     "credit" : "Christoph von Gellhorn",
