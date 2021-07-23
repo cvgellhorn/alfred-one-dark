@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#7B80ABFF",
+        "font" : "System Light",
+        "color" : "#606588B2"
+      },
+      "shortcut" : {
+        "size" : 14,
+        "colorSelected" : "#F9CF00FF",
+        "font" : "System Light",
+        "color" : "#C18DF2FF"
+      },
+      "backgroundSelected" : "#333742FF",
+      "text" : {
+        "size" : 20,
+        "colorSelected" : "#C5E977FF",
+        "font" : "System Light",
+        "color" : "#DCE0F9BE"
+      },
+      "iconPaddingHorizontal" : 10,
+      "roundness" : 8,
+      "paddingVertical" : 10,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#2080D6FF",
+      "paddingHorizontal" : 8,
+      "spacing" : 10,
+      "text" : {
+        "size" : 32,
+        "colorSelected" : "#E9EBFFFF",
+        "font" : "System",
+        "color" : "#E8EAFFFF"
+      },
+      "background" : "#272B34FF",
+      "roundness" : 0,
+      "paddingVertical" : 5
+    },
+    "window" : {
+      "color" : "#272B34FF",
+      "paddingHorizontal" : 10,
+      "width" : 620,
+      "borderPadding" : 5,
+      "borderColor" : "#1314194C",
+      "blur" : 0,
+      "roundness" : 8,
+      "paddingVertical" : 10
+    },
+    "credit" : "Chris",
+    "separator" : {
+      "color" : "#18191F4C",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#61657F80",
+      "thickness" : 5
+    },
+    "name" : "One Dark Shadow"
+  }
+}
